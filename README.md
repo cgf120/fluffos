@@ -15,7 +15,7 @@ FluffOS supports all LPC based mud with very little code changes. if you are cur
  it is definitely time to upgrade!
 
 It is recommended to use the latest release on Github or the master branch, previous versions (v2017 in particular) are
-not supported.
+not supported.1
 
 Build
 -----
